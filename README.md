@@ -1,4 +1,4 @@
-﻿# Bhāsha 🌿
+﻿# Bhāsha  🌿
 
 A beautiful neural translation engine supporting English, Hindi, and Tamil with pronunciation guides and grammar correction.
 
